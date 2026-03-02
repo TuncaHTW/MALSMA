@@ -1,0 +1,1006 @@
+{
+  "catalog": {
+    "uuid": "UUID-CATALOG-ISO27001",
+    "metadata": {
+      "title": "ISO 27001 Controls Catalog (Measures Library)",
+      "version": "1.0.0",
+      "oscal-version": "1.1.3"
+    },
+    "groups": [
+      {
+        "id": "iso27001-5",
+        "title": "Organizational controls",
+        "controls": [
+          {
+            "id": "iso27001-a-5.34",
+            "title": "Privacy and protection of personal data (PbD)",
+            "props": [
+              {
+                "name": "iso_control",
+                "value": "5.34"
+              },
+              {
+                "name": "measure_type",
+                "value": "Organisational Processes"
+              }
+            ],
+            "parts": [
+              {
+                "id": "iso27001-a-5.34_ov",
+                "name": "overview",
+                "prose": "..."
+              },
+              {
+                "id": "iso27001-a-5.34_stm",
+                "name": "statement",
+                "prose": "..."
+              },
+              {
+                "id": "iso27001-a-5.34_cm1",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Privacy principles"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Governance & Strategy"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.lightbeam.ai/solutions/regulations/gdpr/",
+                    "rel": "tool",
+                    "text": "LightBeam GDPR Compliance Automation"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm2",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Privacy principles"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Governance & Strategy"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.kertos.io/en/frameworks/gdpr",
+                    "rel": "tool",
+                    "text": "Kertos GDPR DPMS"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm3",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Privacy principles"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Governance & Strategy"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.gdprregister.eu",
+                    "rel": "tool",
+                    "text": "GDPR Register platform"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm4",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Protection goals"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Governance & Strategy"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.lightbeam.ai/solutions/regulations/gdpr/",
+                    "rel": "tool",
+                    "text": "LightBeam GDPR Compliance Automation"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm5",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Protection goals"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Governance & Strategy"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.eqs.com/platform-data-privacy/gdpr-compliance/",
+                    "rel": "tool",
+                    "text": "EQS GDPR Compliance Software"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm6",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Protection goals"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Governance & Strategy"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://grcsolutions.io/streamlining-gdpr-compliance-with-ropas-data-flow-maps-and-dpias/",
+                    "rel": "tool",
+                    "text": "CyberComply GDPR suite"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm7",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Eight privacy design strategies"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Governance & Strategy"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.clarip.com/data-privacy/gdpr-software/",
+                    "rel": "tool",
+                    "text": "Clarip GDPR Software"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm8",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Eight privacy design strategies"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Governance & Strategy"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.lightbeam.ai/solutions/regulations/gdpr/",
+                    "rel": "tool",
+                    "text": "LightBeam GDPR Compliance Automation"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm9",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Topic-specific policies"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Governance & Strategy"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.gdprregister.eu",
+                    "rel": "tool",
+                    "text": "GDPR Register platform"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm10",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Topic-specific policies"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Governance & Strategy"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://zebsoft.co.uk/gdpr-software/",
+                    "rel": "tool",
+                    "text": "Zebsoft GDPR Software"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm11",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Accountability structures"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Governance & Strategy"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://dataprivacymanager.net/gdpr-compliance-privacy-governance-model/",
+                    "rel": "tool",
+                    "text": "Data Privacy Manager governance model resources"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm12",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Accountability structures"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Governance & Strategy"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://privacy108.com.au/insights/how-to-structure-your-privacy-team/",
+                    "rel": "tool",
+                    "text": "Privacy108 privacy team structuring resources"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm13",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Methodologies"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Governance & Strategy"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.cnil.fr/en/privacy-impact-assessment-cnil-releases-version-3-0-its-pia-software",
+                    "rel": "tool",
+                    "text": "CNIL PIA software"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm14",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Methodologies"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Governance & Strategy"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/privacy-impact-assessments/privacy-impact-assessment-tool",
+                    "rel": "tool",
+                    "text": "OAIC Privacy Impact Assessment tool"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm15",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Methodologies"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Governance & Strategy"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.privacy.org.nz/resources-and-learning/knowledge-base/view/197/",
+                    "rel": "tool",
+                    "text": "New Zealand PIA toolkit"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm16",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "User rights framework"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Governance & Strategy"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.lightbeam.ai/solutions/regulations/gdpr/",
+                    "rel": "tool",
+                    "text": "LightBeam GDPR Compliance Automation"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm17",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "User rights framework"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Governance & Strategy"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.kertos.io/en/frameworks/gdpr",
+                    "rel": "tool",
+                    "text": "Kertos GDPR DPMS"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm18",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "User rights framework"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Governance & Strategy"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.eqs.com/platform-data-privacy/gdpr-compliance/",
+                    "rel": "tool",
+                    "text": "EQS GDPR Compliance Software"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm19",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Data protection impact assessment (DPIA)"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Organisational Processes"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.cnil.fr/en/privacy-impact-assessment-cnil-releases-version-3-0-its-pia-software",
+                    "rel": "tool",
+                    "text": "CNIL PIA software"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm20",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Data protection impact assessment (DPIA)"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Organisational Processes"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.clarip.com/data-privacy/gdpr-software/",
+                    "rel": "tool",
+                    "text": "Clarip GDPR Software"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm21",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Data protection impact assessment (DPIA)"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Organisational Processes"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.gdprregister.eu",
+                    "rel": "tool",
+                    "text": "GDPR Register platform"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm22",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Compliance assessment"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Organisational Processes"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.eqs.com/platform-data-privacy/gdpr-compliance/",
+                    "rel": "tool",
+                    "text": "EQS GDPR Compliance Software"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm23",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Compliance assessment"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Organisational Processes"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://grcsolutions.io/streamlining-gdpr-compliance-with-ropas-data-flow-maps-and-dpias/",
+                    "rel": "tool",
+                    "text": "CyberComply GDPR suite"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm24",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Compliance assessment"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Organisational Processes"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://zebsoft.co.uk/gdpr-software/",
+                    "rel": "tool",
+                    "text": "Zebsoft GDPR Software"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm25",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Training and awareness-raising"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Organisational Processes"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.dataguard.com/blog/perform-a-privacy-impact-a-assessment/",
+                    "rel": "tool",
+                    "text": "DataGuard DPIA and privacy training resources"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm26",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Training and awareness-raising"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Organisational Processes"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.lightbeam.ai/solutions/regulations/gdpr/",
+                    "rel": "tool",
+                    "text": "LightBeam GDPR Compliance Automation"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm27",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Training and awareness-raising"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Organisational Processes"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.kertos.io/en/frameworks/gdpr",
+                    "rel": "tool",
+                    "text": "Kertos GDPR DPMS"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm28",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Privacy-enhancing technology"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Technical & Architectural implementations"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.lightbeam.ai/solutions/regulations/gdpr/",
+                    "rel": "tool",
+                    "text": "LightBeam GDPR Compliance Automation"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm29",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Privacy-enhancing technology"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Technical & Architectural implementations"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://dataprivacymanager.net/gdpr-compliance-privacy-governance-model/",
+                    "rel": "tool",
+                    "text": "Data Privacy Manager platform"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm30",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Privacy-enhancing technology"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Technical & Architectural implementations"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://grcsolutions.io/streamlining-gdpr-compliance-with-ropas-data-flow-maps-and-dpias/",
+                    "rel": "tool",
+                    "text": "CyberComply GDPR suite"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm31",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Data minimisation"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Technical & Architectural implementations"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.lightbeam.ai/solutions/regulations/gdpr/",
+                    "rel": "tool",
+                    "text": "LightBeam GDPR Compliance Automation"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm32",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Data minimisation"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Technical & Architectural implementations"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.gdprregister.eu",
+                    "rel": "tool",
+                    "text": "GDPR Register platform"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm33",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Data minimisation"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Technical & Architectural implementations"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://www.eqs.com/platform-data-privacy/gdpr-compliance/",
+                    "rel": "tool",
+                    "text": "EQS GDPR Compliance Software"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm34",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Data Protection Officer"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Roles"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://whitelabelconsultancy.com/chief-privacy-officer-or-data-protection-officer/",
+                    "rel": "tool",
+                    "text": "Data Protection Officer role guidance (EDPB/WP29, WP243)"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm35",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Data Protection Officer"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Roles"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://dataprivacymanager.net/gdpr-compliance-privacy-governance-model/",
+                    "rel": "tool",
+                    "text": "Data Privacy Manager governance model resources"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm36",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Top Management"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Roles"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://dataprivacymanager.net/gdpr-compliance-privacy-governance-model/",
+                    "rel": "tool",
+                    "text": "Data Privacy Manager governance model resources"
+                  }
+                ]
+              },
+              {
+                "id": "iso27001-a-5.34_cm37",
+                "name": "concrete-measure",
+                "props": [
+                  {
+                    "name": "category",
+                    "value": "ConcreteMeasure"
+                  },
+                  {
+                    "name": "cm_label",
+                    "value": "Top Management"
+                  },
+                  {
+                    "name": "measure_type",
+                    "value": "Roles"
+                  }
+                ],
+                "prose": "...",
+                "links": [
+                  {
+                    "href": "https://privacy108.com.au/insights/how-to-structure-your-privacy-team/",
+                    "rel": "tool",
+                    "text": "Privacy108 privacy team structuring resources"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
