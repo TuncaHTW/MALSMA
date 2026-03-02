@@ -1,0 +1,650 @@
+{
+  "catalog": {
+    "uuid": "UUID-MALSMA",
+    "metadata": {
+      "title": "Measures Taxonomy (MeasureTypes & ConcreteMeasures)",
+      "version": "1.0.0",
+      "oscal-version": "1.1.3"
+    },
+    "groups": [
+      {
+        "id": "mt-governance-strategy",
+        "class": "measure-type",
+        "title": "Governance & Strategy",
+        "parts": [
+          {
+            "id": "mt-governance-strategy_definition",
+            "name": "definition",
+            "prose": "Attributes that refer to organisational, managerial and justification aspects."
+          }
+        ],
+        "controls": [
+          {
+            "id": "cm-privacy-principles",
+            "class": "concrete-measure",
+            "title": "Privacy principles",
+            "props": [
+              {
+                "name": "measure_type",
+                "value": "Governance & Strategy"
+              }
+            ],
+            "parts": [
+              {
+                "id": "cm-privacy-principles_description",
+                "name": "description",
+                "prose": "Concrete measure representing the adoption and application of privacy principles."
+              }
+            ],
+            "links": [
+              {
+                "href": "#tool-lightbeam-gdpr",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-kertos-gdpr-dpms",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-gdpr-register",
+                "rel": "tool"
+              }
+            ]
+          },
+          {
+            "id": "cm-protection-goals",
+            "class": "concrete-measure",
+            "title": "Protection goals",
+            "props": [
+              {
+                "name": "measure_type",
+                "value": "Governance & Strategy"
+              }
+            ],
+            "parts": [
+              {
+                "id": "cm-protection-goals_description",
+                "name": "description",
+                "prose": "Concrete measure representing the definition and use of privacy-related protection goals."
+              }
+            ],
+            "links": [
+              {
+                "href": "#tool-lightbeam-gdpr",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-eqs-gdpr-compliance",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-cybercomply-gdpr-suite",
+                "rel": "tool"
+              }
+            ]
+          },
+          {
+            "id": "cm-eight-privacy-design-strategies",
+            "class": "concrete-measure",
+            "title": "Eight privacy design strategies",
+            "props": [
+              {
+                "name": "measure_type",
+                "value": "Governance & Strategy"
+              }
+            ],
+            "parts": [
+              {
+                "id": "cm-eight-privacy-design-strategies_description",
+                "name": "description",
+                "prose": "Concrete measure representing the application of eight privacy design strategies."
+              }
+            ],
+            "links": [
+              {
+                "href": "#tool-clarip-gdpr-software",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-lightbeam-gdpr",
+                "rel": "tool"
+              }
+            ]
+          },
+          {
+            "id": "cm-topic-specific-policies",
+            "class": "concrete-measure",
+            "title": "Topic-specific policies",
+            "props": [
+              {
+                "name": "measure_type",
+                "value": "Governance & Strategy"
+              }
+            ],
+            "parts": [
+              {
+                "id": "cm-topic-specific-policies_description",
+                "name": "description",
+                "prose": "Concrete measure representing topic-specific privacy and data protection policies."
+              }
+            ],
+            "links": [
+              {
+                "href": "#tool-gdpr-register",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-zebsoft-gdpr-software",
+                "rel": "tool"
+              }
+            ]
+          },
+          {
+            "id": "cm-accountability-structures",
+            "class": "concrete-measure",
+            "title": "Accountability structures",
+            "props": [
+              {
+                "name": "measure_type",
+                "value": "Governance & Strategy"
+              }
+            ],
+            "parts": [
+              {
+                "id": "cm-accountability-structures_description",
+                "name": "description",
+                "prose": "Concrete measure representing organizational accountability structures for privacy and data protection."
+              }
+            ],
+            "links": [
+              {
+                "href": "#tool-dpm-governance-model",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-privacy108-team-structuring",
+                "rel": "tool"
+              }
+            ]
+          },
+          {
+            "id": "cm-methodologies",
+            "class": "concrete-measure",
+            "title": "Methodologies",
+            "props": [
+              {
+                "name": "measure_type",
+                "value": "Governance & Strategy"
+              }
+            ],
+            "parts": [
+              {
+                "id": "cm-methodologies_description",
+                "name": "description",
+                "prose": "Concrete measure representing structured privacy and DPIA methodologies."
+              }
+            ],
+            "links": [
+              {
+                "href": "#tool-cnil-pia",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-oaic-pia",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-nz-pia-toolkit",
+                "rel": "tool"
+              }
+            ]
+          },
+          {
+            "id": "cm-user-rights-framework",
+            "class": "concrete-measure",
+            "title": "User rights framework",
+            "props": [
+              {
+                "name": "measure_type",
+                "value": "Governance & Strategy"
+              }
+            ],
+            "parts": [
+              {
+                "id": "cm-user-rights-framework_description",
+                "name": "description",
+                "prose": "Concrete measure representing a framework to manage and implement data subject rights."
+              }
+            ],
+            "links": [
+              {
+                "href": "#tool-lightbeam-gdpr",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-kertos-gdpr-dpms",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-eqs-gdpr-compliance",
+                "rel": "tool"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mt-organisational-processes",
+        "class": "measure-type",
+        "title": "Organisational Processes",
+        "parts": [
+          {
+            "id": "mt-organisational-processes_definition",
+            "name": "definition",
+            "prose": "Attributes that are operationally relevant to implementation."
+          }
+        ],
+        "controls": [
+          {
+            "id": "cm-dpia",
+            "class": "concrete-measure",
+            "title": "Data protection impact assessment (DPIA)",
+            "props": [
+              {
+                "name": "measure_type",
+                "value": "Organisational Processes"
+              }
+            ],
+            "parts": [
+              {
+                "id": "cm-dpia_description",
+                "name": "description",
+                "prose": "Concrete measure representing the execution of data protection impact assessments."
+              }
+            ],
+            "links": [
+              {
+                "href": "#tool-cnil-pia",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-clarip-gdpr-software",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-gdpr-register",
+                "rel": "tool"
+              }
+            ]
+          },
+          {
+            "id": "cm-compliance-assessment",
+            "class": "concrete-measure",
+            "title": "Compliance assessment",
+            "props": [
+              {
+                "name": "measure_type",
+                "value": "Organisational Processes"
+              }
+            ],
+            "parts": [
+              {
+                "id": "cm-compliance-assessment_description",
+                "name": "description",
+                "prose": "Concrete measure representing assessments of compliance with data protection requirements."
+              }
+            ],
+            "links": [
+              {
+                "href": "#tool-eqs-gdpr-compliance",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-cybercomply-gdpr-suite",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-zebsoft-gdpr-software",
+                "rel": "tool"
+              }
+            ]
+          },
+          {
+            "id": "cm-training-awareness",
+            "class": "concrete-measure",
+            "title": "Training and awareness-raising",
+            "props": [
+              {
+                "name": "measure_type",
+                "value": "Organisational Processes"
+              }
+            ],
+            "parts": [
+              {
+                "id": "cm-training-awareness_description",
+                "name": "description",
+                "prose": "Concrete measure representing training and awareness-raising for employees and developers on privacy and DPIA."
+              }
+            ],
+            "links": [
+              {
+                "href": "#tool-dataguard-training",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-lightbeam-gdpr",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-kertos-gdpr-dpms",
+                "rel": "tool"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mt-technical-architectural",
+        "class": "measure-type",
+        "title": "Technical & Architectual implementations",
+        "parts": [
+          {
+            "id": "mt-technical-architectural_definition",
+            "name": "definition",
+            "prose": "Attributes that cover technical implementation in systems or infrastructure."
+          }
+        ],
+        "controls": [
+          {
+            "id": "cm-privacy-enhancing-technology",
+            "class": "concrete-measure",
+            "title": "Privacy-enhancing technology",
+            "props": [
+              {
+                "name": "measure_type",
+                "value": "Technical & Architectual implementations"
+              }
+            ],
+            "parts": [
+              {
+                "id": "cm-privacy-enhancing-technology_description",
+                "name": "description",
+                "prose": "Concrete measure representing the use of privacy-enhancing technologies."
+              }
+            ],
+            "links": [
+              {
+                "href": "#tool-lightbeam-gdpr",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-dpm-platform",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-cybercomply-gdpr-suite",
+                "rel": "tool"
+              }
+            ]
+          },
+          {
+            "id": "cm-data-minimisation",
+            "class": "concrete-measure",
+            "title": "Data minimisation",
+            "props": [
+              {
+                "name": "measure_type",
+                "value": "Technical & Architectual implementations"
+              }
+            ],
+            "parts": [
+              {
+                "id": "cm-data-minimisation_description",
+                "name": "description",
+                "prose": "Concrete measure representing technical mechanisms for data minimisation."
+              }
+            ],
+            "links": [
+              {
+                "href": "#tool-lightbeam-gdpr",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-gdpr-register",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-eqs-gdpr-compliance",
+                "rel": "tool"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "mt-roles",
+        "class": "measure-type",
+        "title": "Roles",
+        "parts": [
+          {
+            "id": "mt-roles_definition",
+            "name": "definition",
+            "prose": "Attributes that define personal responsibility."
+          }
+        ],
+        "controls": [
+          {
+            "id": "cm-dpo",
+            "class": "concrete-measure",
+            "title": "Data Protection Officer",
+            "props": [
+              {
+                "name": "measure_type",
+                "value": "Roles"
+              }
+            ],
+            "parts": [
+              {
+                "id": "cm-dpo_description",
+                "name": "description",
+                "prose": "Concrete measure representing the establishment and responsibilities of a Data Protection Officer."
+              }
+            ],
+            "links": [
+              {
+                "href": "#tool-dpo-guidance",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-dpm-governance-model",
+                "rel": "tool"
+              }
+            ]
+          },
+          {
+            "id": "cm-top-management",
+            "class": "concrete-measure",
+            "title": "Top Management",
+            "props": [
+              {
+                "name": "measure_type",
+                "value": "Roles"
+              }
+            ],
+            "parts": [
+              {
+                "id": "cm-top-management_description",
+                "name": "description",
+                "prose": "Concrete measure representing top management responsibilities for privacy and data protection governance."
+              }
+            ],
+            "links": [
+              {
+                "href": "#tool-dpm-governance-model",
+                "rel": "tool"
+              },
+              {
+                "href": "#tool-privacy108-team-structuring",
+                "rel": "tool"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "back-matter": {
+      "resources": [
+        {
+          "uuid": "tool-lightbeam-gdpr",
+          "title": "LightBeam GDPR Compliance Automation",
+          "rlinks": [
+            {
+              "href": "https://www.lightbeam.ai/solutions/regulations/gdpr/",
+              "media-type": "text/html"
+            }
+          ]
+        },
+        {
+          "uuid": "tool-kertos-gdpr-dpms",
+          "title": "Kertos GDPR DPMS",
+          "rlinks": [
+            {
+              "href": "https://www.kertos.io/en/frameworks/gdpr",
+              "media-type": "text/html"
+            }
+          ]
+        },
+        {
+          "uuid": "tool-gdpr-register",
+          "title": "GDPR Register platform",
+          "rlinks": [
+            {
+              "href": "https://www.gdprregister.eu",
+              "media-type": "text/html"
+            }
+          ]
+        },
+        {
+          "uuid": "tool-eqs-gdpr-compliance",
+          "title": "EQS GDPR Compliance Software",
+          "rlinks": [
+            {
+              "href": "https://www.eqs.com/platform-data-privacy/gdpr-compliance/",
+              "media-type": "text/html"
+            }
+          ]
+        },
+        {
+          "uuid": "tool-cybercomply-gdpr-suite",
+          "title": "CyberComply GDPR suite",
+          "rlinks": [
+            {
+              "href": "https://grcsolutions.io/streamlining-gdpr-compliance-with-ropas-data-flow-maps-and-dpias/",
+              "media-type": "text/html"
+            }
+          ]
+        },
+        {
+          "uuid": "tool-clarip-gdpr-software",
+          "title": "Clarip GDPR Software",
+          "rlinks": [
+            {
+              "href": "https://www.clarip.com/data-privacy/gdpr-software/",
+              "media-type": "text/html"
+            }
+          ]
+        },
+        {
+          "uuid": "tool-zebsoft-gdpr-software",
+          "title": "Zebsoft GDPR Software",
+          "rlinks": [
+            {
+              "href": "https://zebsoft.co.uk/gdpr-software/",
+              "media-type": "text/html"
+            }
+          ]
+        },
+        {
+          "uuid": "tool-dpm-governance-model",
+          "title": "Data Privacy Manager governance model resources",
+          "rlinks": [
+            {
+              "href": "https://dataprivacymanager.net/gdpr-compliance-privacy-governance-model/",
+              "media-type": "text/html"
+            }
+          ]
+        },
+        {
+          "uuid": "tool-dpm-platform",
+          "title": "Data Privacy Manager platform",
+          "rlinks": [
+            {
+              "href": "https://dataprivacymanager.net/gdpr-compliance-privacy-governance-model/",
+              "media-type": "text/html"
+            }
+          ]
+        },
+        {
+          "uuid": "tool-privacy108-team-structuring",
+          "title": "Privacy108 privacy team structuring resources",
+          "rlinks": [
+            {
+              "href": "https://privacy108.com.au/insights/how-to-structure-your-privacy-team/",
+              "media-type": "text/html"
+            }
+          ]
+        },
+        {
+          "uuid": "tool-cnil-pia",
+          "title": "CNIL PIA software",
+          "rlinks": [
+            {
+              "href": "https://www.cnil.fr/en/privacy-impact-assessment-cnil-releases-version-3-0-its-pia-software",
+              "media-type": "text/html"
+            }
+          ]
+        },
+        {
+          "uuid": "tool-oaic-pia",
+          "title": "OAIC Privacy Impact Assessment tool",
+          "rlinks": [
+            {
+              "href": "https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-and-government-agencies/privacy-impact-assessments/privacy-impact-assessment-tool",
+              "media-type": "text/html"
+            }
+          ]
+        },
+        {
+          "uuid": "tool-nz-pia-toolkit",
+          "title": "New Zealand PIA toolkit",
+          "rlinks": [
+            {
+              "href": "https://www.privacy.org.nz/resources-and-learning/knowledge-base/view/197/",
+              "media-type": "text/html"
+            }
+          ]
+        },
+        {
+          "uuid": "tool-dataguard-training",
+          "title": "DataGuard DPIA and privacy training resources",
+          "rlinks": [
+            {
+              "href": "https://www.dataguard.com/blog/perform-a-privacy-impact-a-assessment/",
+              "media-type": "text/html"
+            }
+          ]
+        },
+        {
+          "uuid": "tool-dpo-guidance",
+          "title": "Data Protection Officer role guidance (EDPB/WP29, WP243)",
+          "rlinks": [
+            {
+              "href": "https://whitelabelconsultancy.com/chief-privacy-officer-or-data-protection-officer/",
+              "media-type": "text/html"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
