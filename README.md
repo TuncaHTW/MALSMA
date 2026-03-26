@@ -26,7 +26,7 @@ Throughout all stages, the same conceptual entities are used:
 
 ### 1.1 Inputs to the prompt
 
-The first stage uses a carefully designed natural‑language prompt that encodes:
+The first stage uses a carefully designed natural‑language [prompt](./Prompt.md) that encodes:
 
 - The scope of the standard: ISO/IEC 27001:2022 controls 5.1–8.34, with a current focus on control 5.34.  
 - The four MeasureTypes:  
